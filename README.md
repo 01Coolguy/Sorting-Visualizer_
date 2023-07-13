@@ -1,5 +1,7 @@
 # Sorting Visualization
 ### This is a simple visualization project made using javascript 
+It is a web page for visualizing a bunch of different sorting algorithm with (speed control 
+ and array size control)
 - Bubble Sort 
 - Selection Sort
 - Insertion Sort
@@ -8,8 +10,6 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
-[Check out the website here](https://abhishekprakash5.github.io/Sorting-Visualization/)
+##SAMPLE 
 
-<img src="img/img1.png"> <br/>
-<img src="img/img2.png"> <br/>
-<img src="img/img3.png"> <br/>
+![img1](https://github.com/01Coolguy/Sorting-Visualizer_/assets/110630419/464d8aa4-c578-481f-8c86-99390d15ff0b)
